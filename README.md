@@ -1,2 +1,2 @@
-# Equipo5-interfaces.github.io
+# equipo5-interfaces.github.io
 Propuesta de mejora
